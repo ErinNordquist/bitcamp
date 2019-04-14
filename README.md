@@ -1,4 +1,4 @@
-# bitcamp 2019: Mortgage Loan Risk Management Data
+# bitcamp 2019: Mortgage Loan Risk Management Analysis
 Data hosted for Bitcamp 2019 utilized by Erin Nordquist for data viz and machine learning. 
 
 ## Inspiration
